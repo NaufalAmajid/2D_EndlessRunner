@@ -1,6 +1,6 @@
 # Tugas Chapter 3 - Endless Runner
 
-<h3>File Build StandAlone ada di <a href = "https://github.com/NaufalAmajid/2D_EndlessRunner/releases/tag/v1.0">Release</a> --> IncrementalGame.zip </h3>
+<h3>File Build StandAlone ada di <a href = "https://github.com/NaufalAmajid/2D_EndlessRunner/releases/tag/v1.0">Release</a> --> 2D_EndlessRunner.zip </h3>
 
 <p>
 Buatlah game 2D endless runner sesuai dengan materi! (PERHATIAN: kerjakan tugas dengan menggunakan Unity versi Unity 2018.3.3f1)
